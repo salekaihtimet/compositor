@@ -1,0 +1,112 @@
+valitsimet pyyt‰v‰t osan komennoilla $0-tilaa_seuraava_osa ja $0-tilaa_edellinen_osa
+
+
+iv-tulostin.pd sis‰lt‰‰ V‰rit‰_skaalan_intervallit joka ottaa pohja‰‰nen omin keinoin, ei siis kannata syˆtt‰‰ transponoinnin j‰lkeist‰.
+
+Midi nuoteissa C = 12
+
+Lis‰‰ varsinaisiin midinuotteihin se tarvittava +3 vasta tulostuksien yhteydess‰ - niin myˆh‰‰n kuin mahdollist.
+Lis‰tt‰v‰ m‰‰r‰ l‰hetet‰‰n "loadbang r korjaus_midi_final" - mahd myˆh‰‰n
+
+TRANSPONOINNIT(
+	otelauta_oktaavi: -60
+	m2n: 		+6
+)
+
+
+tulostin {
+  /*
+  INLET
+  
+  OUTLET
+  */
+  iv_tulostin {
+  
+  }
+  /*
+  INLET
+  
+  OUTLET
+  */
+  iv_tulostin_transvari {
+  
+  }
+  /*
+  INLET
+  
+  OUTLET
+  */
+  hertsitulostin {
+  }
+
+  /*
+  INLET
+  Ônlet[list(f f f f f f f)] (vastaa
+  */
+  otelauta_oktaavi2 {
+  }
+  /*
+  INLET
+  inlet[list(f f f f f f f)] (vastaa
+  */
+  koskettimet {
+  }
+  /*
+  INLET
+  
+  OUTLET
+   outlet[list(f f f)]
+  */
+  valitsimet {
+    laskuri()
+    skaala_nimi
+    m2n
+    ftos
+    s $0-valitsimet_atm_skaala
+    s $0-valitsimet_atm_savel
+    s $0-tulostimen_atm_osa
+    
+    h_map $0-osat
+    
+    s $0-osan_savel
+    s $0-osan_skaala
+    s $0-osan_numero
+  }
+  
+  
+    
+  /*
+  INLET
+   inlet[bang]
+  OUTLET
+   null
+TODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODO
+muodosta_nimi_osalle sis‰lt‰‰ jotain erikois-inlettej‰, jotka tulevat n‰kyviin ... tosin wtf. Menee suoraan tulostukseen. Sis‰lt‰‰
+TODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODO
+
+  */
+  soska {
+    r $0-soskat_taynna
+    r $0-esoskat_taynna
+    s $0-esoskat-alusta
+    s $0-soskat-alusta
+    s $0-monesko_soskan_aste
+    s $0-monesko_esoskan_aste
+    
+    h_multimap konsonator_skoret
+    h_multimap konsonator_falet
+      
+    r $0-soskat-alusta
+    s $0-monesko_soska
+    s $0-soskat_taynna
+    
+    r $0-esoskat-alusta
+    s $0-monesko_esoska
+    s $0-esoskat_taynna
+    
+    pd muodosta_nimi_osalle
+    canvas_argumentor label soska
+    canvas_argumentor color soska 
+  }
+  
+}

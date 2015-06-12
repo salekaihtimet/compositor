@@ -1,0 +1,125 @@
+#N canvas 1162 227 623 660 10;
+#X obj 100 100 cnv 10 30 10 empty piano-c empty 0 5 0 8 -233017 -66577
+0;
+#X obj 100 113 cnv 10 30 10 empty piano-d empty 0 5 0 8 -228856 -166441
+0;
+#X obj 100 126 cnv 10 30 10 empty piano-e empty 0 5 0 8 -233017 -66577
+0;
+#X obj 100 139 cnv 10 30 10 empty piano-f empty 0 5 0 8 -233017 -66577
+0;
+#X obj 100 152 cnv 10 30 10 empty piano-g empty 0 5 0 8 -233017 -66577
+0;
+#X obj 100 165 cnv 10 30 10 empty piano-a empty 0 5 0 8 -233017 -66577
+0;
+#X obj 100 178 cnv 10 30 10 empty piano-b empty 0 5 0 8 -228856 -66577
+0;
+#X obj 110 108 cnv 8 20 8 empty piano-cis empty 0 5 0 8 -1 -262144
+0;
+#X obj 110 121 cnv 8 20 8 empty piano-dis empty 0 5 0 8 -1 -262144
+0;
+#X obj 110 146 cnv 8 20 8 empty piano-fis empty 0 5 0 8 -1 -262144
+0;
+#X obj 110 159 cnv 8 20 8 empty piano-gis empty 0 5 0 8 -1 -262144
+0;
+#X obj 110 173 cnv 8 20 8 empty piano-ais empty 0 5 0 8 -1 -262144
+0;
+#X obj 228 81 route 0 1 2 3 4 5 6 7 8 9 10 11;
+#X obj 336 203 symbol;
+#X obj 308 248 s;
+#X obj 204 27 f;
+#X obj 204 48 sel 12;
+#X obj 247 48 t f f;
+#X obj 222 -14 + 1;
+#X msg 261 26 0;
+#X obj 185 -32 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 185 -8 t b b;
+#X floatatom 295 26 5 0 0 0 - - -;
+#X msg 229 122 piano-dis;
+#X msg 241 132 piano-e;
+#X msg 251 142 piano-f;
+#X msg 261 152 piano-fis;
+#X msg 311 123 piano-g;
+#X msg 321 133 piano-gis;
+#X msg 331 143 piano-a;
+#X msg 345 163 piano-ais;
+#X msg 394 126 piano-b;
+#X msg 404 136 piano-c;
+#X msg 414 146 piano-cis;
+#X msg 427 156 piano-d;
+#X obj 412 -17 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 407 7 f;
+#X obj 395 44 sel 12;
+#X msg 569 14 0;
+#X obj 456 65 t b f;
+#X msg 504 161 label;
+#X msg 190 195 label x;
+#X text 432 -19 clear;
+#X obj 323 -126 inlet;
+#X obj 333 -40 list-drip;
+#X obj 333 21 mod 12;
+#X obj 334 42 t b f;
+#X obj 333 -107 t l b;
+#X msg 383 -157 0 2 4 5 7 9 11;
+#X obj 446 7 + 1;
+#X text 208 -120 iterathor muutoksiin;
+#X msg 492 -101;
+#X obj 333 -7 - 3;
+#X connect 12 0 23 0;
+#X connect 12 1 24 0;
+#X connect 12 2 25 0;
+#X connect 12 3 26 0;
+#X connect 12 4 27 0;
+#X connect 12 5 28 0;
+#X connect 12 6 29 0;
+#X connect 12 7 30 0;
+#X connect 12 8 31 0;
+#X connect 12 9 32 0;
+#X connect 12 10 33 0;
+#X connect 12 11 34 0;
+#X connect 13 0 14 1;
+#X connect 15 0 16 0;
+#X connect 15 0 22 0;
+#X connect 16 0 19 0;
+#X connect 16 1 17 0;
+#X connect 17 0 18 0;
+#X connect 17 1 12 0;
+#X connect 18 0 15 1;
+#X connect 19 0 15 1;
+#X connect 20 0 21 0;
+#X connect 21 0 41 0;
+#X connect 21 1 15 0;
+#X connect 23 0 13 0;
+#X connect 24 0 13 0;
+#X connect 25 0 13 0;
+#X connect 26 0 13 0;
+#X connect 27 0 13 0;
+#X connect 28 0 13 0;
+#X connect 29 0 13 0;
+#X connect 30 0 13 0;
+#X connect 31 0 13 0;
+#X connect 32 0 13 0;
+#X connect 33 0 13 0;
+#X connect 34 0 13 0;
+#X connect 35 0 36 0;
+#X connect 36 0 37 0;
+#X connect 37 0 38 0;
+#X connect 37 1 39 0;
+#X connect 37 1 49 0;
+#X connect 38 0 36 1;
+#X connect 39 0 40 0;
+#X connect 39 1 12 0;
+#X connect 40 0 14 0;
+#X connect 41 0 14 0;
+#X connect 43 0 47 0;
+#X connect 44 0 52 0;
+#X connect 45 0 46 0;
+#X connect 46 0 41 0;
+#X connect 46 1 12 0;
+#X connect 47 0 44 0;
+#X connect 47 1 35 0;
+#X connect 48 0 47 0;
+#X connect 49 0 36 0;
+#X connect 52 0 45 0;
+#X coords 0 -1 1 1 30 90 2 100 100;
