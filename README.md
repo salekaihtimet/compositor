@@ -1,7 +1,9 @@
 # compositor
-A patch for Pure Data for easier composing.
+A patch for Pure Data for easier composing. Uses 12-tone scales and relies on modal theory.
 
-It sorts scales and stuff and prints them out in different styles. Also, basic sequencing is involved. Some intersequential comparitions also. 
+Sorts scales and stuff and prints them out in various styles. 
+
+Basic sequencing is involved with some intersequential comparing. 
 
 The patch is in finnish. The relevant parts are obvious to people who know their modal theory.
 
