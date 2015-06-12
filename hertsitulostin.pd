@@ -1,283 +1,285 @@
 #N canvas 542 31 1104 750 10;
-#X obj 101 101 cnv 10 32 10 priimi1 priimi1 16 0 6 1 10 -128992 -1
+#X obj 101 101 cnv 10 32 10 priimi1 priimi1 16 0 6 1 10 -191407 -66577
 0;
-#X obj 101 125 cnv 10 32 10 sekunti1 sekunti1 18 0 6 1 10 -128992 -1
+#X obj 101 125 cnv 10 32 10 sekunti1 sekunti1 18 0 6 1 10 -191407 -66577
 0;
-#X obj 101 149 cnv 10 32 10 terssi1 terssi1 21 0 6 1 10 -128992 -1
+#X obj 101 149 cnv 10 32 10 terssi1 terssi1 21 0 6 1 10 -191407 -66577
 0;
-#X obj 101 173 cnv 10 32 10 kvartti1 kvartti1 22 0 6 1 10 -128992 -1
+#X obj 101 173 cnv 10 32 10 kvartti1 kvartti1 22 0 6 1 10 -191407 -66577
 0;
-#X obj 101 197 cnv 10 32 10 kvintti1 kvintti1 24 0 6 1 10 -128992 -1
+#X obj 101 197 cnv 10 32 10 kvintti1 kvintti1 24 0 6 1 10 -191407 -66577
 0;
-#X obj 101 221 cnv 10 32 10 null seksti1 28 0 6 1 10 -128992 -1 0;
-#X obj 101 245 cnv 10 32 10 null septimi1 B- 0 6 1 10 -128992 -1 0
-;
-#X obj 135 101 cnv 10 32 10 priimi1 priimi2 39 0 6 1 10 -128992 -1
+#X obj 101 221 cnv 10 32 10 null seksti1 28 0 6 1 10 -191407 -66577
 0;
-#X obj 135 125 cnv 10 32 10 sekunti1 sekunti2 44 0 6 1 10 -128992 -1
+#X obj 101 245 cnv 10 32 10 null septimi1 D-- 0 6 1 10 -191407 -66577
 0;
-#X obj 135 149 cnv 10 32 10 terssi1 terssi2 49 0 6 1 10 -128992 -1
+#X obj 135 101 cnv 10 32 10 priimi1 priimi2 39 0 6 1 10 -191407 -66577
 0;
-#X obj 135 173 cnv 10 32 10 kvartti1 kvartti2 831 0 6 1 10 -128992
--1 0;
-#X obj 135 197 cnv 10 32 10 kvintti1 kvintti2 277 0 6 1 10 -128992
--1 0;
-#X obj 135 221 cnv 10 32 10 seksti1 seksti2 2637 0 6 1 10 -128992 -1
+#X obj 135 125 cnv 10 32 10 sekunti1 sekunti2 44 0 6 1 10 -191407 -66577
 0;
-#X obj 135 245 cnv 10 32 10 null septimi2 35 0 6 1 10 -128992 -1 0
-;
-#X obj 169 101 cnv 10 32 10 priimi1 priimi3 78 0 6 1 10 -128992 -1
+#X obj 135 149 cnv 10 32 10 terssi1 terssi2 49 0 6 1 10 -191407 -66577
 0;
-#X obj 169 125 cnv 10 32 10 sekunti1 sekunti3 87 0 6 1 10 -128992 -1
+#X obj 135 173 cnv 10 32 10 kvartti1 kvartti2 52 0 6 1 10 -191407 -66577
 0;
-#X obj 169 149 cnv 10 32 10 terssi1 terssi3 98 0 6 1 10 -128992 -1
+#X obj 135 197 cnv 10 32 10 kvintti1 kvintti2 58 0 6 1 10 -191407 -66577
 0;
-#X obj 169 173 cnv 10 32 10 kvartti1 kvartti3 1661 0 6 1 10 -128992
--1 0;
-#X obj 169 197 cnv 10 32 10 kvintti1 kvintti3 554 0 6 1 10 -128992
--1 0;
-#X obj 169 221 cnv 10 32 10 seksti1 seksti3 5274 0 6 1 10 -128992 -1
+#X obj 135 221 cnv 10 32 10 seksti1 seksti2 65 0 6 1 10 -191407 -66577
 0;
-#X obj 169 245 cnv 10 32 10 null septimi3 69 0 6 1 10 -128992 -1 0
-;
-#X obj 203 101 cnv 10 32 10 priimi1 priimi4 156 0 6 1 10 -128992 -1
+#X obj 135 245 cnv 10 32 10 null septimi2 73 0 6 1 10 -191407 -66577
 0;
-#X obj 203 125 cnv 10 32 10 sekunti1 sekunti4 175 0 6 1 10 -128992
--1 0;
-#X obj 203 149 cnv 10 32 10 terssi1 terssi4 196 0 6 1 10 -128992 -1
+#X obj 169 101 cnv 10 32 10 priimi1 priimi3 78 0 6 1 10 -191407 -66577
 0;
-#X obj 203 173 cnv 10 32 10 kvartti1 kvartti4 3322 0 6 1 10 -128992
--1 0;
-#X obj 203 197 cnv 10 32 10 kvintti1 kvintti4 1109 0 6 1 10 -128992
--1 0;
-#X obj 203 221 cnv 10 32 10 seksti1 seksti4 10548 0 6 1 10 -128992
--1 0;
-#X obj 203 245 cnv 10 32 10 null septimi4 139 0 6 1 10 -128992 -1 0
-;
-#X obj 237 101 cnv 10 32 10 priimi1 priimi5 311 0 6 1 10 -128992 -1
+#X obj 169 125 cnv 10 32 10 sekunti1 sekunti3 87 0 6 1 10 -191407 -66577
 0;
-#X obj 237 125 cnv 10 32 10 sekunti1 sekunti5 349 0 6 1 10 -128992
--1 0;
-#X obj 237 149 cnv 10 32 10 terssi1 terssi5 392 0 6 1 10 -128992 -1
+#X obj 169 149 cnv 10 32 10 terssi1 terssi3 98 0 6 1 10 -191407 -66577
 0;
-#X obj 237 173 cnv 10 32 10 kvartti1 kvartti5 6645 0 6 1 10 -128992
--1 0;
-#X obj 237 197 cnv 10 32 10 kvintti1 kvintti5 2217 0 6 1 10 -128992
--1 0;
-#X obj 237 221 cnv 10 32 10 seksti1 seksti5 21096 0 6 1 10 -128992
--1 0;
-#X obj 237 245 cnv 10 32 10 null septimi5 277 0 6 1 10 -128992 -1 0
-;
-#X obj 271 101 cnv 10 32 10 priimi1 priimi6 622 0 6 1 10 -128992 -1
+#X obj 169 173 cnv 10 32 10 kvartti1 kvartti3 104 0 6 1 10 -191407
+-66577 0;
+#X obj 169 197 cnv 10 32 10 kvintti1 kvintti3 117 0 6 1 10 -191407
+-66577 0;
+#X obj 169 221 cnv 10 32 10 seksti1 seksti3 131 0 6 1 10 -191407 -66577
 0;
-#X obj 271 125 cnv 10 32 10 sekunti1 sekunti6 698 0 6 1 10 -128992
--1 0;
-#X obj 271 149 cnv 10 32 10 terssi1 terssi6 784 0 6 1 10 -128992 -1
+#X obj 169 245 cnv 10 32 10 null septimi3 147 0 6 1 10 -191407 -66577
 0;
-#X obj 271 173 cnv 10 32 10 kvartti1 kvartti6 13290 0 6 1 10 -128992
--1 0;
-#X obj 271 197 cnv 10 32 10 kvintti1 kvintti6 4435 0 6 1 10 -128992
--1 0;
-#X obj 271 221 cnv 10 32 10 seksti1 seksti6 42192 0 6 1 10 -128992
--1 0;
-#X obj 271 245 cnv 10 32 10 null septimi6 554 0 6 1 10 -128992 -1 0
-;
-#X obj 305 101 cnv 10 32 10 priimi1 priimi7 1245 0 6 1 10 -128992 -1
+#X obj 203 101 cnv 10 32 10 priimi1 priimi4 156 0 6 1 10 -191407 -66577
 0;
-#X obj 305 125 cnv 10 32 10 sekunti1 sekunti7 1397 0 6 1 10 -128992
--1 0;
-#X obj 305 149 cnv 10 32 10 terssi1 terssi7 1568 0 6 1 10 -128992 -1
+#X obj 203 125 cnv 10 32 10 sekunti1 sekunti4 175 0 6 1 10 -191407
+-66577 0;
+#X obj 203 149 cnv 10 32 10 terssi1 terssi4 196 0 6 1 10 -191407 -66577
 0;
-#X obj 305 173 cnv 10 32 10 kvartti1 kvartti7 26580 0 6 1 10 -128992
--1 0;
-#X obj 305 197 cnv 10 32 10 kvintti1 kvintti7 8870 0 6 1 10 -128992
--1 0;
-#X obj 305 221 cnv 10 32 10 seksti1 seksti7 84385 0 6 1 10 -128992
--1 0;
-#X obj 305 245 cnv 10 32 10 null septimi7 1109 0 6 1 10 -128992 -1
+#X obj 203 173 cnv 10 32 10 kvartti1 kvartti4 208 0 6 1 10 -191407
+-66577 0;
+#X obj 203 197 cnv 10 32 10 kvintti1 kvintti4 233 0 6 1 10 -191407
+-66577 0;
+#X obj 203 221 cnv 10 32 10 seksti1 seksti4 262 0 6 1 10 -191407 -66577
 0;
-#X obj 339 101 cnv 10 32 10 priimi1 priimi8 2489 0 6 1 10 -128992 -1
+#X obj 203 245 cnv 10 32 10 null septimi4 294 0 6 1 10 -191407 -66577
 0;
-#X obj 339 125 cnv 10 32 10 sekunti1 sekunti8 2794 0 6 1 10 -128992
--1 0;
-#X obj 339 149 cnv 10 32 10 terssi1 terssi8 3136 0 6 1 10 -128992 -1
+#X obj 237 101 cnv 10 32 10 priimi1 priimi5 311 0 6 1 10 -191407 -66577
 0;
-#X obj 339 173 cnv 10 32 10 kvartti1 kvartti8 53159 0 6 1 10 -128992
--1 0;
-#X obj 339 197 cnv 10 32 10 kvintti1 kvintti8 17740 0 6 1 10 -128992
--1 0;
-#X obj 339 221 cnv 10 32 10 seksti1 seksti8 168769 0 6 1 10 -128992
--1 0;
-#X obj 339 245 cnv 10 32 10 null septimi8 2217 0 6 1 10 -128992 -1
+#X obj 237 125 cnv 10 32 10 sekunti1 sekunti5 349 0 6 1 10 -191407
+-66577 0;
+#X obj 237 149 cnv 10 32 10 terssi1 terssi5 392 0 6 1 10 -191407 -66577
 0;
-#X obj 373 101 cnv 10 32 10 priimi1 priimi9 4978 0 6 1 10 -128992 -1
+#X obj 237 173 cnv 10 32 10 kvartti1 kvartti5 415 0 6 1 10 -191407
+-66577 0;
+#X obj 237 197 cnv 10 32 10 kvintti1 kvintti5 466 0 6 1 10 -191407
+-66577 0;
+#X obj 237 221 cnv 10 32 10 seksti1 seksti5 523 0 6 1 10 -191407 -66577
 0;
-#X obj 373 125 cnv 10 32 10 sekunti1 sekunti9 5588 0 6 1 10 -128992
--1 0;
-#X obj 373 149 cnv 10 32 10 terssi1 terssi9 6272 0 6 1 10 -128992 -1
+#X obj 237 245 cnv 10 32 10 null septimi5 587 0 6 1 10 -191407 -66577
 0;
-#X obj 373 173 cnv 10 32 10 kvartti1 kvartti9 106318 0 6 1 10 -128992
--1 0;
-#X obj 373 197 cnv 10 32 10 kvintti1 kvintti9 35479 0 6 1 10 -128992
--1 0;
-#X obj 373 221 cnv 10 32 10 seksti1 seksti9 337539 0 6 1 10 -128992
--1 0;
-#X obj 373 245 cnv 10 32 10 null septimi9 4435 0 6 1 10 -128992 -1
+#X obj 271 101 cnv 10 32 10 priimi1 priimi6 622 0 6 1 10 -191407 -66577
 0;
-#X obj 407 101 cnv 10 32 10 priimi1 priimi10 9956 0 6 1 10 -128992
--1 0;
-#X obj 407 125 cnv 10 32 10 sekunti1 sekunti10 11175 0 6 1 10 -128992
--1 0;
-#X obj 407 149 cnv 10 32 10 terssi1 terssi10 12544 0 6 1 10 -128992
--1 0;
-#X obj 407 173 cnv 10 32 10 kvartti1 kvartti10 212636 0 6 1 10 -128992
--1 0;
-#X obj 407 197 cnv 10 32 10 kvintti1 kvintti10 70959 0 6 1 10 -128992
--1 0;
-#X obj 407 221 cnv 10 32 10 seksti1 seksti10 675077 0 6 1 10 -128992
--1 0;
-#X obj 407 245 cnv 10 32 10 null septimi10 8870 0 6 1 10 -128992 -1
+#X obj 271 125 cnv 10 32 10 sekunti1 sekunti6 698 0 6 1 10 -191407
+-66577 0;
+#X obj 271 149 cnv 10 32 10 terssi1 terssi6 784 0 6 1 10 -191407 -66577
 0;
-#X obj 101 113 cnv 10 32 10 null pyt_priimi1 D$ 0 6 1 10 -262144 -1
+#X obj 271 173 cnv 10 32 10 kvartti1 kvartti6 831 0 6 1 10 -191407
+-66577 0;
+#X obj 271 197 cnv 10 32 10 kvintti1 kvintti6 932 0 6 1 10 -191407
+-66577 0;
+#X obj 271 221 cnv 10 32 10 seksti1 seksti6 1047 0 6 1 10 -191407 -66577
 0;
-#X obj 101 137 cnv 10 32 10 null pyt_sekunti1 F- 0 6 1 10 -262144 -1
+#X obj 271 245 cnv 10 32 10 null septimi6 1175 0 6 1 10 -191407 -66577
 0;
-#X obj 101 161 cnv 10 32 10 null pyt_terssi1 G- 0 6 1 10 -262144 -1
+#X obj 305 101 cnv 10 32 10 priimi1 priimi7 1245 0 6 1 10 -191407 -66577
 0;
-#X obj 101 185 cnv 10 32 10 null pyt_kvartti1 G$ 0 6 1 10 -262144 -1
+#X obj 305 125 cnv 10 32 10 sekunti1 sekunti7 1397 0 6 1 10 -191407
+-66577 0;
+#X obj 305 149 cnv 10 32 10 terssi1 terssi7 1568 0 6 1 10 -191407 -66577
 0;
-#X obj 101 209 cnv 10 32 10 null pyt_kvintti1 C$ 0 6 1 10 -262144 -1
+#X obj 305 173 cnv 10 32 10 kvartti1 kvartti7 1661 0 6 1 10 -191407
+-66577 0;
+#X obj 305 197 cnv 10 32 10 kvintti1 kvintti7 1865 0 6 1 10 -191407
+-66577 0;
+#X obj 305 221 cnv 10 32 10 seksti1 seksti7 2093 0 6 1 10 -191407 -66577
 0;
-#X obj 101 233 cnv 10 32 10 null pyt_seksti1 E- 0 6 1 10 -262144 -1
+#X obj 305 245 cnv 10 32 10 null septimi7 2349 0 6 1 10 -191407 -66577
 0;
-#X obj 101 257 cnv 10 32 10 null pyt_septimi1 C$ 0 6 1 10 -262144 -1
+#X obj 339 101 cnv 10 32 10 priimi1 priimi8 2489 0 6 1 10 -191407 -66577
 0;
-#X obj 135 113 cnv 10 32 10 null pyt_priimi2 41 0 6 1 10 -262144 -1
+#X obj 339 125 cnv 10 32 10 sekunti1 sekunti8 2794 0 6 1 10 -191407
+-66577 0;
+#X obj 339 149 cnv 10 32 10 terssi1 terssi8 3136 0 6 1 10 -191407 -66577
 0;
-#X obj 135 137 cnv 10 32 10 null pyt_sekunti2 43 0 6 1 10 -262144 -1
+#X obj 339 173 cnv 10 32 10 kvartti1 kvartti8 3322 0 6 1 10 -191407
+-66577 0;
+#X obj 339 197 cnv 10 32 10 kvintti1 kvintti8 3729 0 6 1 10 -191407
+-66577 0;
+#X obj 339 221 cnv 10 32 10 seksti1 seksti8 4186 0 6 1 10 -191407 -66577
 0;
-#X obj 135 161 cnv 10 32 10 null pyt_terssi2 49 0 6 1 10 -262144 -1
+#X obj 339 245 cnv 10 32 10 null septimi8 4699 0 6 1 10 -191407 -66577
 0;
-#X obj 135 185 cnv 10 32 10 null pyt_kvartti2 41 0 6 1 10 -262144 -1
+#X obj 373 101 cnv 10 32 10 priimi1 priimi9 4978 0 6 1 10 -191407 -66577
 0;
-#X obj 135 209 cnv 10 32 10 null pyt_kvintti2 41 0 6 1 10 -262144 -1
+#X obj 373 125 cnv 10 32 10 sekunti1 sekunti9 5588 0 6 1 10 -191407
+-66577 0;
+#X obj 373 149 cnv 10 32 10 terssi1 terssi9 6272 0 6 1 10 -191407 -66577
 0;
-#X obj 135 233 cnv 10 32 10 null pyt_seksti2 41 0 6 1 10 -262144 -1
+#X obj 373 173 cnv 10 32 10 kvartti1 kvartti9 6645 0 6 1 10 -191407
+-66577 0;
+#X obj 373 197 cnv 10 32 10 kvintti1 kvintti9 7459 0 6 1 10 -191407
+-66577 0;
+#X obj 373 221 cnv 10 32 10 seksti1 seksti9 8372 0 6 1 10 -191407 -66577
 0;
-#X obj 135 257 cnv 10 32 10 null pyt_septimi2 41 0 6 1 10 -262144 -1
+#X obj 373 245 cnv 10 32 10 null septimi9 9397 0 6 1 10 -191407 -66577
 0;
-#X obj 169 113 cnv 10 32 10 null pyt_priimi3 82 0 6 1 10 -262144 -1
+#X obj 407 101 cnv 10 32 10 priimi1 priimi10 9956 0 6 1 10 -191407
+-66577 0;
+#X obj 407 125 cnv 10 32 10 sekunti1 sekunti10 11175 0 6 1 10 -191407
+-66577 0;
+#X obj 407 149 cnv 10 32 10 terssi1 terssi10 12544 0 6 1 10 -191407
+-66577 0;
+#X obj 407 173 cnv 10 32 10 kvartti1 kvartti10 13290 0 6 1 10 -191407
+-66577 0;
+#X obj 407 197 cnv 10 32 10 kvintti1 kvintti10 14917 0 6 1 10 -191407
+-66577 0;
+#X obj 407 221 cnv 10 32 10 seksti1 seksti10 16744 0 6 1 10 -191407
+-66577 0;
+#X obj 407 245 cnv 10 32 10 null septimi10 18795 0 6 1 10 -191407 -66577
 0;
-#X obj 169 137 cnv 10 32 10 null pyt_sekunti3 87 0 6 1 10 -262144 -1
+#X obj 101 113 cnv 10 32 10 null pyt_priimi1 D$- 0 6 1 10 -233017 -262144
 0;
-#X obj 169 161 cnv 10 32 10 null pyt_terssi3 98 0 6 1 10 -262144 -1
+#X obj 101 137 cnv 10 32 10 null pyt_sekunti1 F-- 0 6 1 10 -233017
+-262144 0;
+#X obj 101 161 cnv 10 32 10 null pyt_terssi1 G-- 0 6 1 10 -233017 -262144
 0;
-#X obj 169 185 cnv 10 32 10 null pyt_kvartti3 82 0 6 1 10 -262144 -1
+#X obj 101 185 cnv 10 32 10 null pyt_kvartti1 G$- 0 6 1 10 -233017
+-262144 0;
+#X obj 101 209 cnv 10 32 10 null pyt_kvintti1 A$- 0 6 1 10 -233017
+-262144 0;
+#X obj 101 233 cnv 10 32 10 null pyt_seksti1 C-- 0 6 1 10 -233017 -262144
 0;
-#X obj 169 209 cnv 10 32 10 null pyt_kvintti3 82 0 6 1 10 -262144 -1
+#X obj 101 257 cnv 10 32 10 null pyt_septimi1 D-- 0 6 1 10 -233017
+-262144 0;
+#X obj 135 113 cnv 10 32 10 null pyt_priimi2 0 0 6 1 10 -233017 -262144
 0;
-#X obj 169 233 cnv 10 32 10 null pyt_seksti3 82 0 6 1 10 -262144 -1
+#X obj 135 137 cnv 10 32 10 null pyt_sekunti2 -0 0 6 1 10 -233017 -262144
 0;
-#X obj 169 257 cnv 10 32 10 null pyt_septimi3 82 0 6 1 10 -262144 -1
+#X obj 135 161 cnv 10 32 10 null pyt_terssi2 -0 0 6 1 10 -233017 -262144
 0;
-#X obj 203 113 cnv 10 32 10 null pyt_priimi4 165 0 6 1 10 -262144 -1
+#X obj 135 185 cnv 10 32 10 null pyt_kvartti2 0 0 6 1 10 -233017 -262144
 0;
-#X obj 203 137 cnv 10 32 10 null pyt_sekunti4 174 0 6 1 10 -262144
--1 0;
-#X obj 203 161 cnv 10 32 10 null pyt_terssi4 195 0 6 1 10 -262144 -1
+#X obj 135 209 cnv 10 32 10 null pyt_kvintti2 -0 0 6 1 10 -233017 -262144
 0;
-#X obj 203 185 cnv 10 32 10 null pyt_kvartti4 165 0 6 1 10 -262144
--1 0;
-#X obj 203 209 cnv 10 32 10 null pyt_kvintti4 165 0 6 1 10 -262144
--1 0;
-#X obj 203 233 cnv 10 32 10 null pyt_seksti4 165 0 6 1 10 -262144 -1
+#X obj 135 233 cnv 10 32 10 null pyt_seksti2 -0 0 6 1 10 -233017 -262144
 0;
-#X obj 203 257 cnv 10 32 10 null pyt_septimi4 165 0 6 1 10 -262144
--1 0;
-#X obj 237 113 cnv 10 32 10 null pyt_priimi5 330 0 6 1 10 -262144 -1
+#X obj 135 257 cnv 10 32 10 null pyt_septimi2 73 0 6 1 10 -233017 -262144
 0;
-#X obj 237 137 cnv 10 32 10 null pyt_sekunti5 347 0 6 1 10 -262144
--1 0;
-#X obj 237 161 cnv 10 32 10 null pyt_terssi5 391 0 6 1 10 -262144 -1
+#X obj 169 113 cnv 10 32 10 null pyt_priimi3 0 0 6 1 10 -233017 -262144
 0;
-#X obj 237 185 cnv 10 32 10 null pyt_kvartti5 330 0 6 1 10 -262144
--1 0;
-#X obj 237 209 cnv 10 32 10 null pyt_kvintti5 330 0 6 1 10 -262144
--1 0;
-#X obj 237 233 cnv 10 32 10 null pyt_seksti5 330 0 6 1 10 -262144 -1
+#X obj 169 137 cnv 10 32 10 null pyt_sekunti3 -0 0 6 1 10 -233017 -262144
 0;
-#X obj 237 257 cnv 10 32 10 null pyt_septimi5 330 0 6 1 10 -262144
--1 0;
-#X obj 271 113 cnv 10 32 10 null pyt_priimi6 659 0 6 1 10 -262144 -1
+#X obj 169 161 cnv 10 32 10 null pyt_terssi3 -0 0 6 1 10 -233017 -262144
 0;
-#X obj 271 137 cnv 10 32 10 null pyt_sekunti6 695 0 6 1 10 -262144
--1 0;
-#X obj 271 161 cnv 10 32 10 null pyt_terssi6 781 0 6 1 10 -262144 -1
+#X obj 169 185 cnv 10 32 10 null pyt_kvartti3 0 0 6 1 10 -233017 -262144
 0;
-#X obj 271 185 cnv 10 32 10 null pyt_kvartti6 659 0 6 1 10 -262144
--1 0;
-#X obj 271 209 cnv 10 32 10 null pyt_kvintti6 659 0 6 1 10 -262144
--1 0;
-#X obj 271 233 cnv 10 32 10 null pyt_seksti6 659 0 6 1 10 -262144 -1
+#X obj 169 209 cnv 10 32 10 null pyt_kvintti3 -0 0 6 1 10 -233017 -262144
 0;
-#X obj 271 257 cnv 10 32 10 null pyt_septimi6 659 0 6 1 10 -262144
--1 0;
-#X obj 305 113 cnv 10 32 10 null pyt_priimi7 1319 0 6 1 10 -262144
--1 0;
-#X obj 305 137 cnv 10 32 10 null pyt_sekunti7 1389 0 6 1 10 -262144
--1 0;
-#X obj 305 161 cnv 10 32 10 null pyt_terssi7 1563 0 6 1 10 -262144
--1 0;
-#X obj 305 185 cnv 10 32 10 null pyt_kvartti7 1319 0 6 1 10 -262144
--1 0;
-#X obj 305 209 cnv 10 32 10 null pyt_kvintti7 1319 0 6 1 10 -262144
--1 0;
-#X obj 305 233 cnv 10 32 10 null pyt_seksti7 1319 0 6 1 10 -262144
--1 0;
-#X obj 305 257 cnv 10 32 10 null pyt_septimi7 1319 0 6 1 10 -262144
--1 0;
-#X obj 339 113 cnv 10 32 10 null pyt_priimi8 2637 0 6 1 10 -262144
--1 0;
-#X obj 339 137 cnv 10 32 10 null pyt_sekunti8 2778 0 6 1 10 -262144
--1 0;
-#X obj 339 161 cnv 10 32 10 null pyt_terssi8 3125 0 6 1 10 -262144
--1 0;
-#X obj 339 185 cnv 10 32 10 null pyt_kvartti8 2637 0 6 1 10 -262144
--1 0;
-#X obj 339 209 cnv 10 32 10 null pyt_kvintti8 2637 0 6 1 10 -262144
--1 0;
-#X obj 339 233 cnv 10 32 10 null pyt_seksti8 2637 0 6 1 10 -262144
--1 0;
-#X obj 339 257 cnv 10 32 10 null pyt_septimi8 2637 0 6 1 10 -262144
--1 0;
-#X obj 373 113 cnv 10 32 10 null pyt_priimi9 5274 0 6 1 10 -262144
--1 0;
-#X obj 373 137 cnv 10 32 10 null pyt_sekunti9 5556 0 6 1 10 -262144
--1 0;
-#X obj 373 161 cnv 10 32 10 null pyt_terssi9 6251 0 6 1 10 -262144
--1 0;
-#X obj 373 185 cnv 10 32 10 null pyt_kvartti9 5274 0 6 1 10 -262144
--1 0;
-#X obj 373 209 cnv 10 32 10 null pyt_kvintti9 5274 0 6 1 10 -262144
--1 0;
-#X obj 373 233 cnv 10 32 10 null pyt_seksti9 5274 0 6 1 10 -262144
--1 0;
-#X obj 373 257 cnv 10 32 10 null pyt_septimi9 5274 0 6 1 10 -262144
--1 0;
-#X obj 407 113 cnv 10 32 10 null pyt_priimi10 10548 0 6 1 10 -262144
--1 0;
-#X obj 407 137 cnv 10 32 10 null pyt_sekunti10 11112 0 6 1 10 -262144
--1 0;
-#X obj 407 161 cnv 10 32 10 null pyt_terssi10 12501 0 6 1 10 -262144
--1 0;
-#X obj 407 185 cnv 10 32 10 null pyt_kvartti10 10548 0 6 1 10 -262144
--1 0;
-#X obj 407 209 cnv 10 32 10 null pyt_kvintti10 10548 0 6 1 10 -262144
--1 0;
-#X obj 407 233 cnv 10 32 10 null pyt_seksti10 10548 0 6 1 10 -262144
--1 0;
-#X obj 407 257 cnv 10 32 10 null pyt_septimi10 10548 0 6 1 10 -262144
--1 0;
+#X obj 169 233 cnv 10 32 10 null pyt_seksti3 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 169 257 cnv 10 32 10 null pyt_septimi3 147 0 6 1 10 -233017
+-262144 0;
+#X obj 203 113 cnv 10 32 10 null pyt_priimi4 0 0 6 1 10 -233017 -262144
+0;
+#X obj 203 137 cnv 10 32 10 null pyt_sekunti4 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 203 161 cnv 10 32 10 null pyt_terssi4 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 203 185 cnv 10 32 10 null pyt_kvartti4 0 0 6 1 10 -233017 -262144
+0;
+#X obj 203 209 cnv 10 32 10 null pyt_kvintti4 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 203 233 cnv 10 32 10 null pyt_seksti4 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 203 257 cnv 10 32 10 null septimi4 294 0 6 1 10 -233017 -262144
+0;
+#X obj 237 113 cnv 10 32 10 null pyt_priimi5 0 0 6 1 10 -233017 -262144
+0;
+#X obj 237 137 cnv 10 32 10 null pyt_sekunti5 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 237 161 cnv 10 32 10 null pyt_terssi5 -2 0 6 1 10 -233017 -262144
+0;
+#X obj 237 185 cnv 10 32 10 null pyt_kvartti5 0 0 6 1 10 -233017 -262144
+0;
+#X obj 237 209 cnv 10 32 10 null pyt_kvintti5 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 237 233 cnv 10 32 10 null pyt_seksti5 -2 0 6 1 10 -233017 -262144
+0;
+#X obj 237 257 cnv 10 32 10 null pyt_septimi5 587 0 6 1 10 -233017
+-262144 0;
+#X obj 271 113 cnv 10 32 10 null pyt_priimi6 0 0 6 1 10 -233017 -262144
+0;
+#X obj 271 137 cnv 10 32 10 null pyt_sekunti6 -2 0 6 1 10 -233017 -262144
+0;
+#X obj 271 161 cnv 10 32 10 null pyt_terssi6 -4 0 6 1 10 -233017 -262144
+0;
+#X obj 271 185 cnv 10 32 10 null pyt_kvartti6 1 0 6 1 10 -233017 -262144
+0;
+#X obj 271 209 cnv 10 32 10 null pyt_kvintti6 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 271 233 cnv 10 32 10 null pyt_seksti6 -4 0 6 1 10 -233017 -262144
+0;
+#X obj 271 257 cnv 10 32 10 null pyt_septimi6 1175 0 6 1 10 -233017
+-262144 0;
+#X obj 305 113 cnv 10 32 10 null pyt_priimi7 0 0 6 1 10 -233017 -262144
+0;
+#X obj 305 137 cnv 10 32 10 null pyt_sekunti7 -3 0 6 1 10 -233017 -262144
+0;
+#X obj 305 161 cnv 10 32 10 null pyt_terssi7 -7 0 6 1 10 -233017 -262144
+0;
+#X obj 305 185 cnv 10 32 10 null pyt_kvartti7 2 0 6 1 10 -233017 -262144
+0;
+#X obj 305 209 cnv 10 32 10 null pyt_kvintti7 -2 0 6 1 10 -233017 -262144
+0;
+#X obj 305 233 cnv 10 32 10 null pyt_seksti7 -7 0 6 1 10 -233017 -262144
+0;
+#X obj 305 257 cnv 10 32 10 null pyt_septimi7 2349 0 6 1 10 -233017
+-262144 0;
+#X obj 339 113 cnv 10 32 10 null pyt_priimi8 0 0 6 1 10 -233017 -262144
+0;
+#X obj 339 137 cnv 10 32 10 null pyt_sekunti8 -6 0 6 1 10 -233017 -262144
+0;
+#X obj 339 161 cnv 10 32 10 null pyt_terssi8 -14 0 6 1 10 -233017 -262144
+0;
+#X obj 339 185 cnv 10 32 10 null pyt_kvartti8 4 0 6 1 10 -233017 -262144
+0;
+#X obj 339 209 cnv 10 32 10 null pyt_kvintti8 -4 0 6 1 10 -233017 -262144
+0;
+#X obj 339 233 cnv 10 32 10 null pyt_seksti8 -14 0 6 1 10 -233017 -262144
+0;
+#X obj 339 257 cnv 10 32 10 null pyt_septimi8 4699 0 6 1 10 -233017
+-262144 0;
+#X obj 373 113 cnv 10 32 10 null pyt_priimi9 0 0 6 1 10 -233017 -262144
+0;
+#X obj 373 137 cnv 10 32 10 null pyt_sekunti9 -13 0 6 1 10 -233017
+-262144 0;
+#X obj 373 161 cnv 10 32 10 null pyt_terssi9 -28 0 6 1 10 -233017 -262144
+0;
+#X obj 373 185 cnv 10 32 10 null pyt_kvartti9 7 0 6 1 10 -233017 -262144
+0;
+#X obj 373 209 cnv 10 32 10 null pyt_kvintti9 -8 0 6 1 10 -233017 -262144
+0;
+#X obj 373 233 cnv 10 32 10 null pyt_seksti9 -28 0 6 1 10 -233017 -262144
+0;
+#X obj 373 257 cnv 10 32 10 null pyt_septimi9 9397 0 6 1 10 -233017
+-262144 0;
+#X obj 407 113 cnv 10 32 10 null pyt_priimi10 0 0 6 1 10 -233017 -262144
+0;
+#X obj 407 137 cnv 10 32 10 null pyt_sekunti10 -25 0 6 1 10 -233017
+-262144 0;
+#X obj 407 161 cnv 10 32 10 null pyt_terssi10 -57 0 6 1 10 -233017
+-262144 0;
+#X obj 407 185 cnv 10 32 10 null pyt_kvartti10 15 0 6 1 10 -233017
+-262144 0;
+#X obj 407 209 cnv 10 32 10 null pyt_kvintti10 -17 0 6 1 10 -233017
+-262144 0;
+#X obj 407 233 cnv 10 32 10 null pyt_seksti10 -57 0 6 1 10 -233017
+-262144 0;
+#X obj 407 257 cnv 10 32 10 null pyt_septimi10 18795 0 6 1 10 -233017
+-262144 0;
+#X obj 708 164 intervallitaulukko_osa_pyt;
 #X obj 309 -54 f;
 #X obj 334 -54 + 1;
 #X obj 334 -108 loadbang;
@@ -310,6 +312,7 @@
 #X obj 693 192 s;
 #X obj 568 -195 l;
 #X obj 568 -176 packel;
+#X obj 605 -197 + 1;
 #X obj 508 150 intervallitaulukko_osa;
 #X obj 493 175 s;
 #X obj 569 -289 r \$0-rivi;
@@ -324,27 +327,35 @@
 #X obj 102 -22 t b f;
 #X obj 150 -23 f;
 #X obj 493 112 ftos;
-#X floatatom 742 75 10 0 0 0 - - -;
+#X floatatom 753 33 10 0 0 0 - - -;
 #X floatatom 679 35 10 0 0 0 - - -;
 #X floatatom 752 -165 5 0 0 0 - - -;
-#X floatatom 671 -191 5 0 0 0 - - -;
+#X floatatom 632 -206 5 0 0 0 - - -;
+#X floatatom 718 -344 5 0 0 0 - - -;
+#X obj 762 -404 r \$0-sarake;
+#X obj 768 -379 * 12;
 #X obj 447 -425 inlet;
 #X obj 453 -388 t b l;
 #X text 482 -427 vastaanottaa listan;
 #X obj 753 -2 m2f_pyt;
 #X obj 568 -124 t f f;
-#X obj 686 82 -;
+#X obj 693 103 -;
 #X obj 110 63 t b b;
+#X obj 121 -346 del 2000;
+#X obj 768 -288 unpack f f f f f f;
 #X obj 547 -56 r \$0-sarake;
 #X obj 547 3 ==;
 #X msg 562 -17 1;
 #X obj 562 -36 loadbang;
 #X obj 496 26 demux 0 1;
+#X obj 638 111 mton;
 #X obj 632 -289 r \$0-sarake;
 #X obj 534 177 r \$0-sarake;
 #X obj 736 190 r \$0-sarake;
 #X obj 569 -270 t b f;
+#X obj 39 -186 del 50;
 #X obj 174 -262 t b b b;
+#X obj 841 -89;
 #X obj 716 -90 +;
 #X obj 665 -47 +;
 #X obj 679 -65 expr ($f1 * -1);
@@ -353,153 +364,97 @@
 #X obj 694 123 ftos;
 #X obj 180 -23 del 1;
 #X msg 557 -385 0 2 4 5 7 9 11;
-#X obj 635 111 m2n;
-#X floatatom 994 -310 5 0 0 0 - - -;
-#X floatatom 995 -178 5 0 0 0 - - -;
-#X obj 994 -274 mtof;
-#X obj 496 5 f;
-#X obj 584 69 f;
-#X obj 923 149 f;
-#X msg 900 101 bang;
-#X floatatom 939 99 3 0 29 0 - - -;
-#X floatatom 974 120 3 0 29 0 - - -;
-#X text 967 99 background;
-#X text 1002 118 label-color;
-#X obj 923 174 pack 0 0;
-#X obj 887 36 t b b b;
-#X msg 923 207 color \$1 \$2;
-#X obj 931 262 s;
-#X obj 845 159 r \$0-sarake;
-#X floatatom 978 -13 5 0 0 0 - - -;
-#X obj 981 35 t b f;
-#X obj 916 -289 vradio 15 1 0 12 empty empty empty 0 -8 0 10 -262144
--1 -1 0;
-#X obj 902 -123 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1
-0 1;
-#X obj 891 -62 f;
-#X msg 1027 -62 0;
-#X obj 894 -94 metro 100;
-#X obj 901 -24 + 1;
-#X obj 605 -197 + 1;
-#X obj 946 234 intervallitaulukko_osa_pyt;
-#X obj 708 164 intervallitaulukko_osa_pyt;
-#X obj 791 251 intervallitaulukko_osa;
-#X obj 77 -97 sel 8;
-#X obj 270 -95 del 0;
-#X obj 39 -186 del 0;
-#X obj 121 -346 del 0;
-#X msg 309 -396 4 5 7 56 37 76 1 3 4;
-#X connect 140 0 177 0;
-#X connect 141 0 140 1;
-#X connect 142 0 143 0;
-#X connect 143 0 177 0;
-#X connect 144 0 140 0;
-#X connect 146 0 241 0;
-#X connect 147 0 141 0;
-#X connect 147 1 148 0;
-#X connect 150 0 179 0;
-#X connect 151 0 150 0;
-#X connect 151 1 149 0;
-#X connect 153 0 240 0;
-#X connect 154 0 153 0;
+#X obj 77 -97 sel 7;
+#X obj 270 -95 del 30;
+#X obj 497 4 + 3;
+#X obj 584 69 - 3;
+#X connect 140 0 166 1;
+#X connect 141 0 179 0;
+#X connect 142 0 141 1;
+#X connect 143 0 144 0;
+#X connect 144 0 179 0;
+#X connect 145 0 141 0;
+#X connect 147 0 222 0;
+#X connect 148 0 142 0;
+#X connect 148 1 149 0;
+#X connect 151 0 181 0;
+#X connect 152 0 151 0;
+#X connect 152 1 150 0;
+#X connect 154 0 221 0;
 #X connect 155 0 154 0;
-#X connect 156 0 158 0;
-#X connect 157 0 158 0;
-#X connect 158 0 155 1;
-#X connect 160 0 242 0;
-#X connect 161 0 156 0;
-#X connect 162 0 202 0;
-#X connect 166 0 167 0;
-#X connect 167 0 190 0;
-#X connect 168 0 169 1;
-#X connect 170 0 201 0;
-#X connect 171 0 169 0;
-#X connect 172 0 184 0;
-#X connect 173 0 215 0;
-#X connect 174 0 185 0;
-#X connect 175 0 165 0;
-#X connect 176 0 183 0;
-#X connect 176 0 181 0;
-#X connect 177 0 145 0;
-#X connect 177 1 147 0;
-#X connect 178 0 143 0;
-#X connect 179 0 209 0;
-#X connect 179 1 180 1;
-#X connect 180 0 240 0;
-#X connect 181 0 171 0;
-#X connect 182 0 208 0;
-#X connect 183 0 191 0;
-#X connect 184 0 205 0;
-#X connect 184 0 203 1;
-#X connect 185 0 173 1;
-#X connect 185 0 203 0;
-#X connect 186 0 187 0;
-#X connect 187 0 243 0;
-#X connect 187 1 166 1;
-#X connect 187 1 172 0;
-#X connect 189 0 182 0;
-#X connect 190 0 173 0;
-#X connect 190 1 204 0;
-#X connect 192 0 159 0;
-#X connect 192 1 152 0;
-#X connect 193 0 194 0;
-#X connect 194 0 197 1;
-#X connect 195 0 194 1;
-#X connect 196 0 195 0;
-#X connect 197 0 176 0;
-#X connect 197 1 216 0;
-#X connect 198 0 174 0;
-#X connect 199 0 168 0;
-#X connect 200 0 238 0;
-#X connect 201 0 166 0;
-#X connect 201 1 168 1;
-#X connect 201 1 236 0;
-#X connect 201 1 238 1;
-#X connect 202 0 154 0;
-#X connect 202 1 157 0;
-#X connect 203 0 189 1;
-#X connect 204 0 189 0;
-#X connect 205 0 204 1;
-#X connect 205 0 206 0;
-#X connect 207 0 165 0;
-#X connect 208 0 175 0;
-#X connect 209 0 180 0;
-#X connect 210 0 187 0;
-#X connect 211 0 207 0;
-#X connect 212 0 214 0;
-#X connect 214 0 213 0;
-#X connect 215 0 197 0;
-#X connect 216 0 211 0;
-#X connect 217 0 223 0;
-#X connect 218 0 217 0;
-#X connect 219 0 217 1;
-#X connect 220 0 223 1;
-#X connect 223 0 225 0;
-#X connect 224 0 218 0;
-#X connect 224 1 219 0;
-#X connect 224 2 220 0;
-#X connect 225 0 226 0;
-#X connect 227 0 237 0;
-#X connect 227 0 239 0;
-#X connect 228 0 229 0;
-#X connect 228 0 232 1;
-#X connect 229 0 224 0;
-#X connect 229 1 239 1;
-#X connect 230 0 233 0;
-#X connect 230 0 239 0;
-#X connect 231 0 234 0;
-#X connect 232 0 235 0;
-#X connect 233 0 232 1;
-#X connect 234 0 232 0;
-#X connect 235 0 228 0;
-#X connect 236 0 167 1;
-#X connect 237 0 226 1;
-#X connect 238 0 165 1;
-#X connect 239 0 226 1;
-#X connect 240 0 192 0;
-#X connect 240 1 151 0;
-#X connect 241 0 144 0;
-#X connect 242 0 155 0;
-#X connect 243 0 162 0;
-#X connect 244 0 187 0;
+#X connect 156 0 155 0;
+#X connect 157 0 159 0;
+#X connect 158 0 159 0;
+#X connect 159 0 156 1;
+#X connect 161 0 210 0;
+#X connect 162 0 157 0;
+#X connect 163 0 211 0;
+#X connect 167 0 168 0;
+#X connect 168 0 195 0;
+#X connect 169 0 168 1;
+#X connect 170 0 171 1;
+#X connect 172 0 209 0;
+#X connect 173 0 171 0;
+#X connect 174 0 186 0;
+#X connect 175 0 223 0;
+#X connect 176 0 187 0;
+#X connect 177 0 166 0;
+#X connect 178 0 185 0;
+#X connect 178 0 183 0;
+#X connect 179 0 146 0;
+#X connect 179 1 148 0;
+#X connect 180 0 144 0;
+#X connect 181 0 219 0;
+#X connect 181 1 182 1;
+#X connect 182 0 221 0;
+#X connect 183 0 173 0;
+#X connect 184 0 196 1;
+#X connect 185 0 196 0;
+#X connect 186 0 213 1;
+#X connect 186 0 215 0;
+#X connect 187 0 175 1;
+#X connect 187 0 213 0;
+#X connect 189 0 190 0;
+#X connect 190 0 188 0;
+#X connect 191 0 192 0;
+#X connect 192 0 198 0;
+#X connect 192 1 167 1;
+#X connect 192 1 174 0;
+#X connect 194 0 184 0;
+#X connect 195 0 175 0;
+#X connect 195 1 214 0;
+#X connect 196 0 218 0;
+#X connect 197 0 160 0;
+#X connect 197 1 153 0;
+#X connect 198 0 163 0;
+#X connect 200 0 201 0;
+#X connect 201 0 204 1;
+#X connect 202 0 201 1;
+#X connect 203 0 202 0;
+#X connect 204 0 178 0;
+#X connect 204 1 224 0;
+#X connect 205 0 217 0;
+#X connect 206 0 176 0;
+#X connect 207 0 170 0;
+#X connect 208 0 140 0;
+#X connect 209 0 167 0;
+#X connect 209 1 169 0;
+#X connect 209 1 170 1;
+#X connect 209 1 140 1;
+#X connect 210 0 156 0;
+#X connect 211 0 155 0;
+#X connect 211 1 158 0;
+#X connect 213 0 194 1;
+#X connect 214 0 194 0;
+#X connect 215 0 214 1;
+#X connect 215 0 216 0;
+#X connect 217 0 166 0;
+#X connect 218 0 177 0;
+#X connect 219 0 182 0;
+#X connect 220 0 192 0;
+#X connect 221 0 197 0;
+#X connect 221 1 152 0;
+#X connect 222 0 145 0;
+#X connect 223 0 204 0;
+#X connect 224 0 205 0;
 #X coords 0 -1 1 1 340 168 1 100 100;

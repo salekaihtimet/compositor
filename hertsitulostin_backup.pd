@@ -1,0 +1,458 @@
+#N canvas 552 0 1104 750 10;
+#X obj 101 101 cnv 10 32 10 priimi1 priimi1 16 0 6 1 10 -191407 -66577
+0;
+#X obj 101 125 cnv 10 32 10 sekunti1 sekunti1 18 0 6 1 10 -191407 -66577
+0;
+#X obj 101 149 cnv 10 32 10 terssi1 terssi1 21 0 6 1 10 -191407 -66577
+0;
+#X obj 101 173 cnv 10 32 10 kvartti1 kvartti1 22 0 6 1 10 -191407 -66577
+0;
+#X obj 101 197 cnv 10 32 10 kvintti1 kvintti1 24 0 6 1 10 -191407 -66577
+0;
+#X obj 101 221 cnv 10 32 10 seksti1 seksti1 28 0 6 1 10 -191407 -66577
+0;
+#X obj 101 245 cnv 10 32 10 null septimi1 D-- 0 6 1 10 -191407 -66577
+0;
+#X obj 135 101 cnv 10 32 10 priimi1 priimi2 33 0 6 1 10 -191407 -66577
+0;
+#X obj 135 125 cnv 10 32 10 sekunti1 sekunti2 37 0 6 1 10 -191407 -66577
+0;
+#X obj 135 149 cnv 10 32 10 terssi1 terssi2 41 0 6 1 10 -191407 -66577
+0;
+#X obj 135 173 cnv 10 32 10 kvartti1 kvartti2 44 0 6 1 10 -191407 -66577
+0;
+#X obj 135 197 cnv 10 32 10 kvintti1 kvintti2 49 0 6 1 10 -191407 -66577
+0;
+#X obj 135 221 cnv 10 32 10 seksti1 seksti2 55 0 6 1 10 -191407 -66577
+0;
+#X obj 135 245 cnv 10 32 10 null septimi2 62 0 6 1 10 -191407 -66577
+0;
+#X obj 169 101 cnv 10 32 10 priimi1 priimi3 65 0 6 1 10 -191407 -66577
+0;
+#X obj 169 125 cnv 10 32 10 sekunti1 sekunti3 73 0 6 1 10 -191407 -66577
+0;
+#X obj 169 149 cnv 10 32 10 terssi1 terssi3 82 0 6 1 10 -191407 -66577
+0;
+#X obj 169 173 cnv 10 32 10 kvartti1 kvartti3 87 0 6 1 10 -191407 -66577
+0;
+#X obj 169 197 cnv 10 32 10 kvintti1 kvintti3 98 0 6 1 10 -191407 -66577
+0;
+#X obj 169 221 cnv 10 32 10 seksti1 seksti3 110 0 6 1 10 -191407 -66577
+0;
+#X obj 169 245 cnv 10 32 10 null septimi3 123 0 6 1 10 -191407 -66577
+0;
+#X obj 203 101 cnv 10 32 10 priimi1 priimi4 131 0 6 1 10 -191407 -66577
+0;
+#X obj 203 125 cnv 10 32 10 sekunti1 sekunti4 147 0 6 1 10 -191407
+-66577 0;
+#X obj 203 149 cnv 10 32 10 terssi1 terssi4 165 0 6 1 10 -191407 -66577
+0;
+#X obj 203 173 cnv 10 32 10 kvartti1 kvartti4 175 0 6 1 10 -191407
+-66577 0;
+#X obj 203 197 cnv 10 32 10 kvintti1 kvintti4 196 0 6 1 10 -191407
+-66577 0;
+#X obj 203 221 cnv 10 32 10 seksti1 seksti4 220 0 6 1 10 -191407 -66577
+0;
+#X obj 203 245 cnv 10 32 10 null septimi4 247 0 6 1 10 -191407 -66577
+0;
+#X obj 237 101 cnv 10 32 10 priimi1 priimi5 262 0 6 1 10 -191407 -66577
+0;
+#X obj 237 125 cnv 10 32 10 sekunti1 sekunti5 294 0 6 1 10 -191407
+-66577 0;
+#X obj 237 149 cnv 10 32 10 terssi1 terssi5 330 0 6 1 10 -191407 -66577
+0;
+#X obj 237 173 cnv 10 32 10 kvartti1 kvartti5 349 0 6 1 10 -191407
+-66577 0;
+#X obj 237 197 cnv 10 32 10 kvintti1 kvintti5 392 0 6 1 10 -191407
+-66577 0;
+#X obj 237 221 cnv 10 32 10 seksti1 seksti5 440 0 6 1 10 -191407 -66577
+0;
+#X obj 237 245 cnv 10 32 10 null septimi5 494 0 6 1 10 -191407 -66577
+0;
+#X obj 271 101 cnv 10 32 10 priimi1 priimi6 523 0 6 1 10 -191407 -66577
+0;
+#X obj 271 125 cnv 10 32 10 sekunti1 sekunti6 587 0 6 1 10 -191407
+-66577 0;
+#X obj 271 149 cnv 10 32 10 terssi1 terssi6 659 0 6 1 10 -191407 -66577
+0;
+#X obj 271 173 cnv 10 32 10 kvartti1 kvartti6 698 0 6 1 10 -191407
+-66577 0;
+#X obj 271 197 cnv 10 32 10 kvintti1 kvintti6 784 0 6 1 10 -191407
+-66577 0;
+#X obj 271 221 cnv 10 32 10 seksti1 seksti6 880 0 6 1 10 -191407 -66577
+0;
+#X obj 271 245 cnv 10 32 10 null septimi6 988 0 6 1 10 -191407 -66577
+0;
+#X obj 305 101 cnv 10 32 10 priimi1 priimi7 1047 0 6 1 10 -191407 -66577
+0;
+#X obj 305 125 cnv 10 32 10 sekunti1 sekunti7 1175 0 6 1 10 -191407
+-66577 0;
+#X obj 305 149 cnv 10 32 10 terssi1 terssi7 1319 0 6 1 10 -191407 -66577
+0;
+#X obj 305 173 cnv 10 32 10 kvartti1 kvartti7 1397 0 6 1 10 -191407
+-66577 0;
+#X obj 305 197 cnv 10 32 10 kvintti1 kvintti7 1568 0 6 1 10 -191407
+-66577 0;
+#X obj 305 221 cnv 10 32 10 seksti1 seksti7 1760 0 6 1 10 -191407 -66577
+0;
+#X obj 305 245 cnv 10 32 10 null septimi7 1976 0 6 1 10 -191407 -66577
+0;
+#X obj 339 101 cnv 10 32 10 priimi1 priimi8 2093 0 6 1 10 -191407 -66577
+0;
+#X obj 339 125 cnv 10 32 10 sekunti1 sekunti8 2349 0 6 1 10 -191407
+-66577 0;
+#X obj 339 149 cnv 10 32 10 terssi1 terssi8 2637 0 6 1 10 -191407 -66577
+0;
+#X obj 339 173 cnv 10 32 10 kvartti1 kvartti8 2794 0 6 1 10 -191407
+-66577 0;
+#X obj 339 197 cnv 10 32 10 kvintti1 kvintti8 3136 0 6 1 10 -191407
+-66577 0;
+#X obj 339 221 cnv 10 32 10 seksti1 seksti8 3520 0 6 1 10 -191407 -66577
+0;
+#X obj 339 245 cnv 10 32 10 null septimi8 3951 0 6 1 10 -191407 -66577
+0;
+#X obj 373 101 cnv 10 32 10 priimi1 priimi9 4186 0 6 1 10 -191407 -66577
+0;
+#X obj 373 125 cnv 10 32 10 sekunti1 sekunti9 4699 0 6 1 10 -191407
+-66577 0;
+#X obj 373 149 cnv 10 32 10 terssi1 terssi9 5274 0 6 1 10 -191407 -66577
+0;
+#X obj 373 173 cnv 10 32 10 kvartti1 kvartti9 5588 0 6 1 10 -191407
+-66577 0;
+#X obj 373 197 cnv 10 32 10 kvintti1 kvintti9 6272 0 6 1 10 -191407
+-66577 0;
+#X obj 373 221 cnv 10 32 10 seksti1 seksti9 7040 0 6 1 10 -191407 -66577
+0;
+#X obj 373 245 cnv 10 32 10 null septimi9 7902 0 6 1 10 -191407 -66577
+0;
+#X obj 407 101 cnv 10 32 10 priimi1 priimi10 8372 0 6 1 10 -191407
+-66577 0;
+#X obj 407 125 cnv 10 32 10 sekunti1 sekunti10 9397 0 6 1 10 -191407
+-66577 0;
+#X obj 407 149 cnv 10 32 10 terssi1 terssi10 10548 0 6 1 10 -191407
+-66577 0;
+#X obj 407 173 cnv 10 32 10 kvartti1 kvartti10 11175 0 6 1 10 -191407
+-66577 0;
+#X obj 407 197 cnv 10 32 10 kvintti1 kvintti10 12544 0 6 1 10 -191407
+-66577 0;
+#X obj 407 221 cnv 10 32 10 seksti1 seksti10 14080 0 6 1 10 -191407
+-66577 0;
+#X obj 407 245 cnv 10 32 10 null septimi10 15804 0 6 1 10 -191407 -66577
+0;
+#X obj 101 113 cnv 10 32 10 null pyt_priimi1 D$- 0 6 1 10 -233017 -262144
+0;
+#X obj 101 137 cnv 10 32 10 null pyt_sekunti1 F-- 0 6 1 10 -233017
+-262144 0;
+#X obj 101 161 cnv 10 32 10 null pyt_terssi1 G-- 0 6 1 10 -233017 -262144
+0;
+#X obj 101 185 cnv 10 32 10 null pyt_kvartti1 G$- 0 6 1 10 -233017
+-262144 0;
+#X obj 101 209 cnv 10 32 10 null pyt_kvintti1 A$- 0 6 1 10 -233017
+-262144 0;
+#X obj 101 233 cnv 10 32 10 null pyt_seksti1 C-- 0 6 1 10 -233017 -262144
+0;
+#X obj 101 257 cnv 10 32 10 null septimi1 D-- 0 6 1 10 -233017 -262144
+0;
+#X obj 135 113 cnv 10 32 10 null pyt_priimi2 0 0 6 1 10 -233017 -262144
+0;
+#X obj 135 137 cnv 10 32 10 null pyt_sekunti2 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 135 161 cnv 10 32 10 null pyt_terssi2 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 135 185 cnv 10 32 10 null pyt_kvartti2 0 0 6 1 10 -233017 -262144
+0;
+#X obj 135 209 cnv 10 32 10 null pyt_kvintti2 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 135 233 cnv 10 32 10 null pyt_seksti2 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 135 257 cnv 10 32 10 null septimi2 62 0 6 1 10 -233017 -262144
+0;
+#X obj 169 113 cnv 10 32 10 null pyt_priimi3 0 0 6 1 10 -233017 -262144
+0;
+#X obj 169 137 cnv 10 32 10 null pyt_sekunti3 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 169 161 cnv 10 32 10 null pyt_terssi3 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 169 185 cnv 10 32 10 null pyt_kvartti3 0 0 6 1 10 -233017 -262144
+0;
+#X obj 169 209 cnv 10 32 10 null pyt_kvintti3 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 169 233 cnv 10 32 10 null pyt_seksti3 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 169 257 cnv 10 32 10 null septimi3 123 0 6 1 10 -233017 -262144
+0;
+#X obj 203 113 cnv 10 32 10 null pyt_priimi4 0 0 6 1 10 -233017 -262144
+0;
+#X obj 203 137 cnv 10 32 10 null pyt_sekunti4 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 203 161 cnv 10 32 10 null pyt_terssi4 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 203 185 cnv 10 32 10 null pyt_kvartti4 0 0 6 1 10 -233017 -262144
+0;
+#X obj 203 209 cnv 10 32 10 null pyt_kvintti4 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 203 233 cnv 10 32 10 null pyt_seksti4 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 203 257 cnv 10 32 10 null septimi4 247 0 6 1 10 -233017 -262144
+0;
+#X obj 237 113 cnv 10 32 10 null pyt_priimi5 0 0 6 1 10 -233017 -262144
+0;
+#X obj 237 137 cnv 10 32 10 null pyt_sekunti5 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 237 161 cnv 10 32 10 null pyt_terssi5 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 237 185 cnv 10 32 10 null pyt_kvartti5 0 0 6 1 10 -233017 -262144
+0;
+#X obj 237 209 cnv 10 32 10 null pyt_kvintti5 -0 0 6 1 10 -233017 -262144
+0;
+#X obj 237 233 cnv 10 32 10 null pyt_seksti5 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 237 257 cnv 10 32 10 null septimi5 494 0 6 1 10 -233017 -262144
+0;
+#X obj 271 113 cnv 10 32 10 null pyt_priimi6 0 0 6 1 10 -233017 -262144
+0;
+#X obj 271 137 cnv 10 32 10 null pyt_sekunti6 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 271 161 cnv 10 32 10 null pyt_terssi6 -3 0 6 1 10 -233017 -262144
+0;
+#X obj 271 185 cnv 10 32 10 null pyt_kvartti6 1 0 6 1 10 -233017 -262144
+0;
+#X obj 271 209 cnv 10 32 10 null pyt_kvintti6 -1 0 6 1 10 -233017 -262144
+0;
+#X obj 271 233 cnv 10 32 10 null pyt_seksti6 -3 0 6 1 10 -233017 -262144
+0;
+#X obj 271 257 cnv 10 32 10 null septimi6 988 0 6 1 10 -233017 -262144
+0;
+#X obj 305 113 cnv 10 32 10 null pyt_priimi7 0 0 6 1 10 -233017 -262144
+0;
+#X obj 305 137 cnv 10 32 10 null pyt_sekunti7 -3 0 6 1 10 -233017 -262144
+0;
+#X obj 305 161 cnv 10 32 10 null pyt_terssi7 -6 0 6 1 10 -233017 -262144
+0;
+#X obj 305 185 cnv 10 32 10 null pyt_kvartti7 2 0 6 1 10 -233017 -262144
+0;
+#X obj 305 209 cnv 10 32 10 null pyt_kvintti7 -2 0 6 1 10 -233017 -262144
+0;
+#X obj 305 233 cnv 10 32 10 null pyt_seksti7 -6 0 6 1 10 -233017 -262144
+0;
+#X obj 305 257 cnv 10 32 10 null septimi7 1976 0 6 1 10 -233017 -262144
+0;
+#X obj 339 113 cnv 10 32 10 null pyt_priimi8 0 0 6 1 10 -233017 -262144
+0;
+#X obj 339 137 cnv 10 32 10 null pyt_sekunti8 -5 0 6 1 10 -233017 -262144
+0;
+#X obj 339 161 cnv 10 32 10 null pyt_terssi8 -12 0 6 1 10 -233017 -262144
+0;
+#X obj 339 185 cnv 10 32 10 null pyt_kvartti8 3 0 6 1 10 -233017 -262144
+0;
+#X obj 339 209 cnv 10 32 10 null pyt_kvintti8 -4 0 6 1 10 -233017 -262144
+0;
+#X obj 339 233 cnv 10 32 10 null pyt_seksti8 -12 0 6 1 10 -233017 -262144
+0;
+#X obj 339 257 cnv 10 32 10 null septimi8 3951 0 6 1 10 -233017 -262144
+0;
+#X obj 373 113 cnv 10 32 10 null pyt_priimi9 0 0 6 1 10 -233017 -262144
+0;
+#X obj 373 137 cnv 10 32 10 null pyt_sekunti9 -11 0 6 1 10 -233017
+-262144 0;
+#X obj 373 161 cnv 10 32 10 null pyt_terssi9 -24 0 6 1 10 -233017 -262144
+0;
+#X obj 373 185 cnv 10 32 10 null pyt_kvartti9 6 0 6 1 10 -233017 -262144
+0;
+#X obj 373 209 cnv 10 32 10 null pyt_kvintti9 -7 0 6 1 10 -233017 -262144
+0;
+#X obj 373 233 cnv 10 32 10 null pyt_seksti9 -24 0 6 1 10 -233017 -262144
+0;
+#X obj 373 257 cnv 10 32 10 null septimi9 7902 0 6 1 10 -233017 -262144
+0;
+#X obj 407 113 cnv 10 32 10 null pyt_priimi10 0 0 6 1 10 -233017 -262144
+0;
+#X obj 407 137 cnv 10 32 10 null pyt_sekunti10 -21 0 6 1 10 -233017
+-262144 0;
+#X obj 407 161 cnv 10 32 10 null pyt_terssi10 -48 0 6 1 10 -233017
+-262144 0;
+#X obj 407 185 cnv 10 32 10 null pyt_kvartti10 13 0 6 1 10 -233017
+-262144 0;
+#X obj 407 209 cnv 10 32 10 null pyt_kvintti10 -14 0 6 1 10 -233017
+-262144 0;
+#X obj 407 233 cnv 10 32 10 null pyt_seksti10 -48 0 6 1 10 -233017
+-262144 0;
+#X obj 407 257 cnv 10 32 10 null septimi10 15804 0 6 1 10 -233017 -262144
+0;
+#X obj 708 164 intervallitaulukko_osa_pyt;
+#X obj 309 -54 f;
+#X obj 334 -54 + 1;
+#X obj 334 -108 loadbang;
+#X msg 334 -89 0;
+#X obj 309 -73 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 309 3 s \$0-sarakkeet_fin;
+#X obj 303 -134 r \$0-seuraava_sarake;
+#X obj 343 -17 t f f;
+#X obj 343 38 s \$0-sarake;
+#X obj 130 -47 s \$0-rivi;
+#X obj 103 -48 + 1;
+#X obj 103 -70 t f f;
+#X obj 76 4 s \$0-seuraava_sarake;
+#X msg 76 -114 0;
+#X obj 56 -137 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 81 -145 spigot;
+#X msg 159 -185 0;
+#X msg 123 -186 1;
+#X obj 125 -162 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1
+0 1;
+#X obj 24 23 s \$0-ekalle_riville;
+#X obj 39 -220 r \$0-ekalle_riville;
+#X obj 196 -221 r \$0-sarakkeet_fin;
+#X obj 161 -242 t b b;
+#X obj 121 -245 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X text 99 -247 run;
+#X text 99 -116 sarake kerrallaan;
+#X obj 693 192 s;
+#X obj 568 -214 l;
+#X obj 568 -179 packel;
+#X obj 599 -201 + 1;
+#X obj 508 150 intervallitaulukko_osa;
+#X obj 493 175 s;
+#X obj 407 -309 r \$0-rivi;
+#X msg 493 131 label \$1;
+#X obj 693 -185 list-splat 1;
+#X obj 545 -89 +;
+#X obj 478 -228 r \$0-sarake;
+#X obj 632 -196 * 12;
+#X msg 693 144 label \$1;
+#X obj 491 49 mtof;
+#X obj 473 -177 t f f;
+#X obj 464 -199 f;
+#X obj 309 -36 sel 11;
+#X obj 271 -174 r \$0-sarakkeet_fin;
+#X obj 491 86 f;
+#X obj 102 -22 t b f;
+#X obj 150 -23 f;
+#X obj 492 106 ftos;
+#X obj 569 -156 f;
+#X obj 407 -289 t b b f b f;
+#X obj 427 -224 + 1;
+#X obj 608 -224 t f b;
+#X obj 668 -215 l;
+#X floatatom 646 80 5 0 0 0 - - -;
+#X floatatom 606 80 5 0 0 0 - - -;
+#X floatatom 719 -160 5 0 0 0 - - -;
+#X floatatom 632 -176 5 0 0 0 - - -;
+#X floatatom 718 -344 5 0 0 0 - - -;
+#X obj 762 -404 r \$0-sarake;
+#X obj 768 -379 * 12;
+#X obj 686 -153 +;
+#X obj 39 -186 del 100;
+#X obj 447 -425 inlet;
+#X obj 453 -388 t b l;
+#X text 482 -427 vastaanottaa listan;
+#X obj 685 58 m2f_pyt;
+#X obj 568 -124 t f f;
+#X obj 631 99 -;
+#X obj 180 -21 del 5;
+#X obj 76 -95 sel 7;
+#X obj 110 63 t b b;
+#X msg 557 -385 0 2 4 5 7 9 11;
+#X obj 121 -346 del 2000;
+#X obj 694 123 ftos;
+#X obj 768 -288 unpack f f f f f f;
+#X obj 915 -23 r \$0-sarake;
+#X obj 915 36 ==;
+#X msg 930 16 1;
+#X obj 943 -4 loadbang;
+#X obj 864 59 demux 0 1;
+#X obj 915 82 mton;
+#X connect 140 0 167 1;
+#X connect 141 0 183 0;
+#X connect 142 0 141 1;
+#X connect 143 0 144 0;
+#X connect 144 0 183 0;
+#X connect 145 0 141 0;
+#X connect 147 0 145 0;
+#X connect 148 0 149 0;
+#X connect 148 1 142 0;
+#X connect 151 0 186 0;
+#X connect 152 0 151 0;
+#X connect 152 1 150 0;
+#X connect 154 0 210 0;
+#X connect 155 0 154 0;
+#X connect 156 0 155 0;
+#X connect 157 0 159 0;
+#X connect 158 0 159 0;
+#X connect 159 0 156 1;
+#X connect 161 0 202 0;
+#X connect 162 0 157 0;
+#X connect 163 0 155 0;
+#X connect 163 1 158 0;
+#X connect 164 0 163 0;
+#X connect 168 0 169 0;
+#X connect 169 0 189 1;
+#X connect 170 0 169 1;
+#X connect 171 0 172 1;
+#X connect 173 0 190 0;
+#X connect 174 0 172 0;
+#X connect 175 0 196 0;
+#X connect 176 0 220 0;
+#X connect 177 0 182 1;
+#X connect 178 0 197 0;
+#X connect 179 0 167 0;
+#X connect 180 0 185 0;
+#X connect 180 0 195 0;
+#X connect 181 0 178 0;
+#X connect 181 1 140 0;
+#X connect 181 1 171 0;
+#X connect 182 0 181 0;
+#X connect 183 0 146 0;
+#X connect 183 1 148 0;
+#X connect 184 0 144 0;
+#X connect 185 0 188 0;
+#X connect 186 0 209 0;
+#X connect 186 1 187 1;
+#X connect 187 0 210 0;
+#X connect 188 0 174 0;
+#X connect 189 0 207 0;
+#X connect 190 0 189 0;
+#X connect 190 1 182 0;
+#X connect 190 2 140 1;
+#X connect 190 2 171 1;
+#X connect 190 3 168 0;
+#X connect 190 4 192 0;
+#X connect 192 0 170 0;
+#X connect 192 1 193 0;
+#X connect 193 0 175 0;
+#X connect 194 0 208 1;
+#X connect 195 0 208 0;
+#X connect 196 0 201 1;
+#X connect 197 0 176 1;
+#X connect 197 0 201 0;
+#X connect 199 0 200 0;
+#X connect 200 0 198 0;
+#X connect 201 0 206 1;
+#X connect 202 0 156 0;
+#X connect 203 0 204 0;
+#X connect 204 0 213 0;
+#X connect 204 1 168 1;
+#X connect 204 1 193 1;
+#X connect 206 0 194 0;
+#X connect 207 0 176 0;
+#X connect 207 1 206 0;
+#X connect 208 0 214 0;
+#X connect 209 0 187 0;
+#X connect 210 0 211 0;
+#X connect 210 1 152 0;
+#X connect 211 0 160 0;
+#X connect 211 1 153 0;
+#X connect 212 0 204 0;
+#X connect 213 0 164 0;
+#X connect 214 0 179 0;
+#X connect 216 0 217 0;
+#X connect 217 0 220 1;
+#X connect 218 0 217 1;
+#X connect 219 0 218 0;
+#X connect 220 0 180 0;
+#X connect 220 1 221 0;
+#X connect 221 0 179 0;
+#X coords 0 -1 1 1 340 168 1 100 100;

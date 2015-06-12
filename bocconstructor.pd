@@ -1,0 +1,49 @@
+#N canvas 69 227 1470 300 10;
+#X text 9 9 Kolmetoista argumenttia: valikkokoko x y send receive labe
+lbael x offset label y offset font number font size bgcolor label color
+0 <- on pakollinen ?=??;
+#X obj 425 82 makefilename priimi%d_hz;
+#X msg 425 54 2;
+#X symbolatom 423 122 10 0 0 0 - - -;
+#X msg 633 93 set;
+#X msg 636 145 \; priimi2_hz label kokla priimi2_hz priimi2_hz;
+#X msg 663 93 add;
+#X floatatom 740 67 5 0 0 0 - - -;
+#X msg 738 96 add2 label;
+#X msg 816 97 add2 kokla;
+#X msg 695 95 add2 \$1;
+#X obj 10 167 cnv 15 100 60 empty priimi2_hz kokla 20 12 0 14 -233017
+-66577 0;
+#X symbolatom 408 221 40 0 0 0 - - -;
+#X obj 402 185 makefilename pyt_%s;
+#X obj 1085 -29 cnv 10 32 10 empty priimi 12345 0 6 1 10 -191407 -66577
+0;
+#X text 1043 -34 priimi;
+#X text 1037 -9 sekunti;
+#X text 1040 15 terssi;
+#X text 1034 37 kvartti;
+#X text 1039 63 kvintti;
+#X text 1042 86 seksti;
+#X text 1040 108 septimi;
+#X obj 1085 -5 cnv 10 32 10 empty sekunti 12345 0 6 1 10 -191407 -66577
+0;
+#X obj 1085 19 cnv 10 32 10 empty terssi 12345 0 6 1 10 -191407 -66577
+0;
+#X obj 1085 43 cnv 10 32 10 empty kvartti 12345 0 6 1 10 -191407 -66577
+0;
+#X obj 1085 67 cnv 10 32 10 empty kvintti 12345 0 6 1 10 -191407 -66577
+0;
+#X obj 1085 91 cnv 10 32 10 empty seksti 12345 0 6 1 10 -191407 -66577
+0;
+#X obj 1085 115 cnv 10 32 10 empty septimi 12345 0 6 1 10 -191407 -66577
+0;
+#X connect 1 0 3 0;
+#X connect 2 0 1 0;
+#X connect 3 0 10 0;
+#X connect 3 0 13 0;
+#X connect 4 0 5 0;
+#X connect 6 0 5 0;
+#X connect 8 0 5 0;
+#X connect 9 0 5 0;
+#X connect 10 0 5 0;
+#X connect 13 0 12 0;

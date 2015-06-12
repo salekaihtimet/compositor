@@ -1,0 +1,311 @@
+#N canvas 87 171 1299 692 10;
+#X obj 112 100 cnv 10 150 10 empty 0-soska 2doorinen 5 5 0 10 -66577
+-1 0;
+#X obj 112 110 cnv 10 150 10 empty 1-soska 4fryyginen 5 5 0 10 -66577
+-1 0;
+#X obj 112 120 cnv 10 150 10 empty 2-soska 5lyydinen 5 5 0 10 -66577
+-1 0;
+#X obj 112 130 cnv 10 150 10 empty 3-soska 7miksolyydinen 5 5 0 10
+-66577 -1 0;
+#X obj 112 140 cnv 10 150 10 empty 4-soska 9aiolinen 5 5 0 10 -66577
+-1 0;
+#X obj 112 150 cnv 10 150 10 empty 5-soska 11lokrinen 5 5 0 10 -66577
+-1 0;
+#X obj 112 160 cnv 10 150 10 empty 6-soska 12jooninen 5 5 0 10 -66577
+-1 0;
+#X obj 112 170 cnv 10 150 10 empty 7-soska 12jooninen 5 5 0 10 -66577
+-1 0;
+#X obj 112 180 cnv 10 150 10 empty 8-soska 1mel.5-miksolyydinen 5 5
+0 10 -66577 -1 0;
+#X obj 112 190 cnv 10 150 10 empty 9-soska 2miksolyydinen 5 5 0 10
+-66577 -1 0;
+#X obj 112 200 cnv 10 150 10 empty 10-soska 2aiolinen 5 5 0 10 -66577
+-1 0;
+#X obj 112 210 cnv 10 150 10 empty 11-soska 2mel.6-aiolinen 5 5 0 10
+-66577 -1 0;
+#X obj 112 220 cnv 10 150 10 empty 12-soska 2mel.-lokrinen 5 5 0 10
+-66577 -1 0;
+#X obj 112 230 cnv 10 150 10 empty 13-soska 2harm.2-doorinen 5 5 0
+10 -66577 -1 0;
+#X obj 112 240 cnv 10 150 10 empty 14-soska 3mel.1-jooninen 5 5 0 10
+-66577 -1 0;
+#X obj 112 250 cnv 10 150 10 empty 15-soska 4aiolinen 5 5 0 10 -66577
+-1 0;
+#X obj 112 260 cnv 10 150 10 empty 16-soska 4lokrinen 5 5 0 10 -66577
+-1 0;
+#X obj 112 270 cnv 10 150 10 empty 17-soska 4mel.-lokrinen 5 5 0 10
+-66577 -1 0;
+#X obj 112 280 cnv 10 150 10 empty 18-soska 4harm.3-fryyginen 5 5 0
+10 -66577 -1 0;
+#X obj 112 290 cnv 10 150 10 empty 19-soska 5jooninen 5 5 0 10 -66577
+-1 0;
+#X obj 112 300 cnv 10 150 10 empty 20-soska 5mel.1-jooninen 5 5 0 10
+-66577 -1 0;
+#X obj 112 310 cnv 10 150 10 empty 21-soska 5mel.2-doorinen 5 5 0 10
+-66577 -1 0;
+#X obj 112 320 cnv 10 150 10 empty 22-soska 5harm.4-lyydinen 5 5 0
+10 -66577 -1 0;
+#X obj 112 330 cnv 10 150 10 empty 23-soska 6lokrinen 5 5 0 10 -66577
+-1 0;
+#X obj 112 340 cnv 10 150 10 empty 24-soska 7jooninen 5 5 0 10 -66577
+-1 0;
+#X obj 112 350 cnv 10 150 10 empty 25-soska 7doorinen 5 5 0 10 -66577
+-1 0;
+#X obj 112 360 cnv 10 150 10 empty 26-soska 7mel.2-doorinen 5 5 0 10
+-66577 -1 0;
+#X obj 112 370 cnv 10 150 10 empty 27-soska 7mel.3-fryyginen 5 5 0
+10 -66577 -1 0;
+#X obj 112 380 cnv 10 150 10 empty 28-soska 8harm.5-miksolyydinen 5
+5 0 10 -66577 -1 0;
+#X obj 112 390 cnv 10 150 10 empty 29-soska 9doorinen 5 5 0 10 -66577
+-1 0;
+#X obj 112 400 cnv 10 150 10 empty 30-soska 9fryyginen 5 5 0 10 -66577
+-1 0;
+#X obj 112 410 cnv 10 150 10 empty 31-soska 9mel.3-fryyginen 5 5 0
+10 -66577 -1 0;
+#X obj 112 420 cnv 10 150 10 empty 32-soska 9mel.4-lyydinen 5 5 0 10
+-66577 -1 0;
+#X obj 112 430 cnv 10 150 10 empty 33-soska 9harm.6-aiolinen 5 5 0
+10 -66577 -1 0;
+#X obj 112 440 cnv 10 150 10 empty 34-soska 11fryyginen 5 5 0 10 -66577
+-1 0;
+#X obj 266 100 cnv 10 150 10 empty 0-esoska 2doorinen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 110 cnv 10 150 10 empty 1-esoska 4fryyginen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 120 cnv 10 150 10 empty 2-esoska 5lyydinen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 130 cnv 10 150 10 empty 3-esoska 7miksolyydinen 5 5 0 10
+-33289 -262144 0;
+#X obj 266 140 cnv 10 150 10 empty 4-esoska 9aiolinen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 150 cnv 10 150 10 empty 5-esoska 11lokrinen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 160 cnv 10 150 10 empty 6-esoska 12jooninen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 170 cnv 10 150 10 empty 7-esoska 12jooninen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 180 cnv 10 150 10 empty 8-esoska 1mel.5-miksolyydinen 5
+5 0 10 -33289 -262144 0;
+#X obj 266 190 cnv 10 150 10 empty 9-esoska 2miksolyydinen 5 5 0 10
+-33289 -262144 0;
+#X obj 266 200 cnv 10 150 10 empty 10-esoska 2aiolinen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 210 cnv 10 150 10 empty 11-esoska 2mel.6-aiolinen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 220 cnv 10 150 10 empty 12-esoska 2mel.-lokrinen 5 5 0 10
+-33289 -262144 0;
+#X obj 266 230 cnv 10 150 10 empty 13-esoska 2harm.2-doorinen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 240 cnv 10 150 10 empty 14-esoska 3mel.1-jooninen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 250 cnv 10 150 10 empty 15-esoska 4aiolinen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 260 cnv 10 150 10 empty 16-esoska 4lokrinen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 270 cnv 10 150 10 empty 17-esoska 4mel.-lokrinen 5 5 0 10
+-33289 -262144 0;
+#X obj 266 280 cnv 10 150 10 empty 18-esoska 4harm.3-fryyginen 5 5
+0 10 -33289 -262144 0;
+#X obj 266 290 cnv 10 150 10 empty 19-esoska 5jooninen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 300 cnv 10 150 10 empty 20-esoska 5mel.1-jooninen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 310 cnv 10 150 10 empty 21-esoska 5mel.2-doorinen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 320 cnv 10 150 10 empty 22-esoska 5harm.4-lyydinen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 330 cnv 10 150 10 empty 23-esoska 6lokrinen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 340 cnv 10 150 10 empty 24-esoska 7jooninen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 350 cnv 10 150 10 empty 25-esoska 7doorinen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 360 cnv 10 150 10 empty 26-esoska 7mel.2-doorinen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 370 cnv 10 150 10 empty 27-esoska 7mel.3-fryyginen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 380 cnv 10 150 10 empty 28-esoska 8harm.5-miksolyydinen
+5 5 0 10 -33289 -262144 0;
+#X obj 266 390 cnv 10 150 10 empty 29-esoska 9doorinen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 400 cnv 10 150 10 empty 30-esoska 9fryyginen 5 5 0 10 -33289
+-262144 0;
+#X obj 266 410 cnv 10 150 10 empty 31-esoska 9mel.3-fryyginen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 420 cnv 10 150 10 empty 32-esoska 9mel.4-lyydinen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 430 cnv 10 150 10 empty 33-esoska 9harm.6-aiolinen 5 5 0
+10 -33289 -262144 0;
+#X obj 266 440 cnv 10 150 10 empty 34-esoska 11fryyginen 5 5 0 10 -33289
+-262144 0;
+#X obj -435 96 spigot;
+#X obj -404 74 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X msg -404 48 1;
+#X msg -415 26 0;
+#N canvas 872 72 450 647 muodosta_nimi_osalle 1;
+#X symbolatom 203 450 10 0 0 0 - - -;
+#X obj 203 431 makesymbol %s%s;
+#X msg 196 343 list \$1 \$2;
+#X obj 203 412 pack s s;
+#X floatatom 230 93 5 0 0 0 - - -;
+#X obj 225 243 ftos;
+#X obj 107 215 symbol;
+#X obj 193 262 symbol;
+#X obj 124 243 t b s;
+#X obj 173 74 unpack f f;
+#X obj 230 111 t b f;
+#X obj 229 200 f;
+#X obj 177 46 inlet;
+#X obj 293 45 inlet;
+#X obj 208 476 outlet;
+#X obj 107 196 skaala_nimi;
+#X obj 245 220 -;
+#X connect 0 0 14 0;
+#X connect 1 0 0 0;
+#X connect 3 0 1 0;
+#X connect 4 0 10 0;
+#X connect 5 0 7 1;
+#X connect 6 0 8 0;
+#X connect 7 0 3 0;
+#X connect 8 0 7 0;
+#X connect 8 1 3 1;
+#X connect 9 0 15 0;
+#X connect 9 1 4 0;
+#X connect 10 0 11 0;
+#X connect 10 1 16 1;
+#X connect 11 0 16 0;
+#X connect 12 0 9 0;
+#X connect 13 0 11 1;
+#X connect 15 0 6 0;
+#X connect 16 0 5 0;
+#X restore -414 265 pd muodosta_nimi_osalle;
+#X obj -414 243 l;
+#X obj -232 270 r \$0-monesko_soska;
+#X msg -73 213 2 22;
+#X msg -64 224 1 22;
+#X msg -56 234 0 22;
+#X msg -7 253 12 0;
+#X msg 2 262 11 0;
+#X msg 11 273 10 0;
+#X obj -396 137 f;
+#X obj -361 202 s \$0-monesko_soska;
+#X obj -435 115 t b l b;
+#X obj -373 -139 inlet;
+#X obj -577 167 s \$0-pyyda_seuraava_aste;
+#X obj -394 221 s \$0-soskat_taynna;
+#X obj -415 7 r \$0-soskat_taynna;
+#X obj -555 -94 spigot;
+#X obj -524 -116 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1
+0 1;
+#X msg -524 -142 1;
+#X msg -535 -164 0;
+#X obj -536 -185 r \$0-soskat_taynna;
+#X obj -331 -64 s \$0-soskat-alusta;
+#X obj -502 -163 r \$0-soskat-alusta;
+#X obj -387 25 r \$0-soskat-alusta;
+#X obj -335 95 r \$0-soskat-alusta;
+#X obj -555 -204 r \$0-pyyda_seuraava_aste;
+#X obj -556 -62 f;
+#X obj -556 -42 s \$0-monesko_soskan_aste;
+#X obj -331 -85 spigot;
+#X obj -298 -104 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1
+1 1;
+#X msg -298 -130 1;
+#X msg -309 -152 0;
+#X obj -225 -134 del 2000;
+#X obj -373 -119 t l b b;
+#X obj -42 145 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X floatatom 14 106 5 0 0 0 - - -;
+#X floatatom -337 173 5 0 0 0 - - -;
+#X obj -601 186 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 32 67 r \$0-monesko_soskan_aste;
+#X obj -64 86 outlet;
+#X obj -414 303 canvas_argumentor label soska;
+#X obj -436 339 canvas_argumentor label esoska;
+#X obj -139 341 canvas_argumentor color esoska;
+#X obj -195 298 canvas_argumentor color soska;
+#X obj -396 159 sel 35;
+#X obj -41 166 demux 1 2 3 4;
+#X obj -371 137 + 1;
+#X msg -335 115 0;
+#X obj -527 -61 - 1;
+#X obj -69 -150 inlet;
+#X text -29 -153 pohja-aani;
+#X msg -510 -94 7;
+#X obj -263 -172 loadbang;
+#X obj -577 147 del 300;
+#X connect 70 0 85 0;
+#X connect 71 0 70 1;
+#X connect 72 0 71 0;
+#X connect 73 0 71 0;
+#X connect 74 0 114 0;
+#X connect 74 0 115 0;
+#X connect 75 0 74 0;
+#X connect 76 0 114 1;
+#X connect 76 0 115 1;
+#X connect 76 0 116 1;
+#X connect 76 0 117 1;
+#X connect 77 0 117 0;
+#X connect 78 0 117 0;
+#X connect 79 0 117 0;
+#X connect 80 0 116 0;
+#X connect 81 0 116 0;
+#X connect 82 0 116 0;
+#X connect 83 0 118 0;
+#X connect 83 0 120 0;
+#X connect 85 0 127 0;
+#X connect 85 1 75 0;
+#X connect 85 1 108 0;
+#X connect 85 2 83 0;
+#X connect 86 0 107 0;
+#X connect 89 0 73 0;
+#X connect 90 0 100 0;
+#X connect 91 0 90 1;
+#X connect 92 0 91 0;
+#X connect 93 0 91 0;
+#X connect 94 0 93 0;
+#X connect 96 0 92 0;
+#X connect 96 0 125 0;
+#X connect 97 0 72 0;
+#X connect 98 0 121 0;
+#X connect 99 0 90 0;
+#X connect 100 0 101 0;
+#X connect 100 0 122 0;
+#X connect 102 0 95 0;
+#X connect 103 0 102 1;
+#X connect 104 0 103 0;
+#X connect 105 0 103 0;
+#X connect 106 0 104 0;
+#X connect 107 0 70 0;
+#X connect 107 1 105 0;
+#X connect 107 1 106 0;
+#X connect 107 2 102 0;
+#X connect 108 0 119 0;
+#X connect 112 0 109 0;
+#X connect 112 0 113 0;
+#X connect 112 0 119 1;
+#X connect 118 0 88 0;
+#X connect 118 1 84 0;
+#X connect 118 1 110 0;
+#X connect 119 0 77 0;
+#X connect 119 0 80 0;
+#X connect 119 1 78 0;
+#X connect 119 1 81 0;
+#X connect 119 2 79 0;
+#X connect 119 2 82 0;
+#X connect 119 3 77 0;
+#X connect 119 3 80 0;
+#X connect 120 0 83 1;
+#X connect 121 0 83 1;
+#X connect 121 0 84 0;
+#X connect 122 0 100 1;
+#X connect 123 0 74 1;
+#X connect 125 0 100 0;
+#X connect 126 0 104 0;
+#X connect 127 0 87 0;
+#X connect 127 0 111 0;
+#X coords 0 -1 1 1 330 350 2 100 100;

@@ -14,8 +14,6 @@
 #X msg 4 49 1;
 #X obj 87 58 \$1;
 #X obj 130 77 - 1;
-#X obj 132 19 inlet;
-#X text 167 19 arvon suora asettaminen;
 #X connect 0 0 11 0;
 #X connect 1 0 12 0;
 #X connect 2 0 3 0;
@@ -31,5 +29,4 @@
 #X connect 12 0 10 0;
 #X connect 13 0 7 0;
 #X connect 14 0 5 0;
-#X connect 15 0 10 1;
 #X coords 0 -1 1 1 85 24 2 100 100;

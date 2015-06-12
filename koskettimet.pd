@@ -1,17 +1,17 @@
-#N canvas 1162 227 623 660 10;
-#X obj 100 100 cnv 10 30 10 empty piano-c empty 0 5 0 8 -233017 -66577
+#N canvas 316 333 623 660 10;
+#X obj 100 100 cnv 10 30 10 empty piano-c x 0 5 0 8 -233017 -66577
 0;
-#X obj 100 113 cnv 10 30 10 empty piano-d empty 0 5 0 8 -228856 -166441
+#X obj 100 113 cnv 10 30 10 empty piano-d x 0 5 0 8 -228856 -166441
 0;
-#X obj 100 126 cnv 10 30 10 empty piano-e empty 0 5 0 8 -233017 -66577
+#X obj 100 126 cnv 10 30 10 empty piano-e x 0 5 0 8 -233017 -66577
 0;
-#X obj 100 139 cnv 10 30 10 empty piano-f empty 0 5 0 8 -233017 -66577
+#X obj 100 139 cnv 10 30 10 empty piano-f x 0 5 0 8 -233017 -66577
 0;
-#X obj 100 152 cnv 10 30 10 empty piano-g empty 0 5 0 8 -233017 -66577
+#X obj 100 152 cnv 10 30 10 empty piano-g x 0 5 0 8 -233017 -66577
 0;
-#X obj 100 165 cnv 10 30 10 empty piano-a empty 0 5 0 8 -233017 -66577
+#X obj 100 165 cnv 10 30 10 empty piano-a x 0 5 0 8 -233017 -66577
 0;
-#X obj 100 178 cnv 10 30 10 empty piano-b empty 0 5 0 8 -228856 -66577
+#X obj 100 178 cnv 10 30 10 empty piano-b x 0 5 0 8 -228856 -66577
 0;
 #X obj 110 108 cnv 8 20 8 empty piano-cis empty 0 5 0 8 -1 -262144
 0;
@@ -29,7 +29,7 @@
 #X obj 204 27 f;
 #X obj 204 48 sel 12;
 #X obj 247 48 t f f;
-#X obj 222 -14 + 1;
+#X obj 233 28 + 1;
 #X msg 261 26 0;
 #X obj 185 -32 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
@@ -46,7 +46,7 @@
 #X msg 394 126 piano-b;
 #X msg 404 136 piano-c;
 #X msg 414 146 piano-cis;
-#X msg 427 156 piano-d;
+#X msg 424 156 piano-d;
 #X obj 412 -17 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
 #X obj 407 7 f;
@@ -56,16 +56,15 @@
 #X msg 504 161 label;
 #X msg 190 195 label x;
 #X text 432 -19 clear;
-#X obj 323 -126 inlet;
-#X obj 333 -40 list-drip;
-#X obj 333 21 mod 12;
-#X obj 334 42 t b f;
-#X obj 333 -107 t l b;
-#X msg 383 -157 0 2 4 5 7 9 11;
+#X obj 318 -46 inlet;
+#X obj 320 -8 list-drip;
+#X obj 337 14 mod 12;
+#X obj 342 46 t b f;
+#X obj 328 -27 t l b;
+#X msg 378 -77 0 2 4 5 7 9 11;
 #X obj 446 7 + 1;
-#X text 208 -120 iterathor muutoksiin;
-#X msg 492 -101;
-#X obj 333 -7 - 3;
+#X text 207 -47 comment;
+#X text 205 -34 iterathor muutoksiin;
 #X connect 12 0 23 0;
 #X connect 12 1 24 0;
 #X connect 12 2 25 0;
@@ -113,7 +112,7 @@
 #X connect 40 0 14 0;
 #X connect 41 0 14 0;
 #X connect 43 0 47 0;
-#X connect 44 0 52 0;
+#X connect 44 0 45 0;
 #X connect 45 0 46 0;
 #X connect 46 0 41 0;
 #X connect 46 1 12 0;
@@ -121,5 +120,4 @@
 #X connect 47 1 35 0;
 #X connect 48 0 47 0;
 #X connect 49 0 36 0;
-#X connect 52 0 45 0;
 #X coords 0 -1 1 1 30 90 2 100 100;
